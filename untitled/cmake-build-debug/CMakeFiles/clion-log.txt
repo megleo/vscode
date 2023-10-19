@@ -1,0 +1,16 @@
+/home/ts/software/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/local/bin/clang -DCMAKE_CXX_COMPILER=/usr/local/bin/clang++ -G "CodeBlocks - Unix Makefiles" -S /home/ts/vscode/untitled -B /home/ts/vscode/untitled/cmake-build-debug
+-- The CUDA compiler identification is unknown
+CMake Error at /home/ts/software/clion-2022.2.4/bin/cmake/linux/share/cmake-3.23/Modules/CMakeDetermineCUDACompiler.cmake:633 (message):
+  Failed to detect a default CUDA architecture.
+
+  
+
+  Compiler output:
+
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/ts/vscode/untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/ts/vscode/untitled/cmake-build-debug/CMakeFiles/CMakeError.log".

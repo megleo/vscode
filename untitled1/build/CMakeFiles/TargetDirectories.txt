@@ -1,0 +1,3 @@
+/home/ts/vscode/untitled1/build/CMakeFiles/rebuild_cache.dir
+/home/ts/vscode/untitled1/build/CMakeFiles/edit_cache.dir
+/home/ts/vscode/untitled1/build/CMakeFiles/untitled1.dir

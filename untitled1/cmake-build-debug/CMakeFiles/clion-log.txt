@@ -1,0 +1,10 @@
+/home/ts/software/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/local/bin/clang -DCMAKE_CXX_COMPILER=/usr/local/bin/clang++ -G "CodeBlocks - Unix Makefiles" -S /home/ts/vscode/untitled1 -B /home/ts/vscode/untitled1/cmake-build-debug
+CMake Error at /home/ts/software/clion-2022.2.4/bin/cmake/linux/share/cmake-3.23/Modules/CMakeDetermineCUDACompiler.cmake:311 (message):
+  CMAKE_CUDA_ARCHITECTURES must be valid if set.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/ts/vscode/untitled1/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/home/ts/vscode/untitled1/cmake-build-debug/CMakeFiles/CMakeError.log".

@@ -1,0 +1,1 @@
+/usr/local/bin/clang -g CMakeFiles/C_Cpoints.dir/main.c.o -o C_Cpoints 

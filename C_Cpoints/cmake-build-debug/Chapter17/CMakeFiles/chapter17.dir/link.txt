@@ -1,0 +1,2 @@
+/usr/local/bin/llvm-ar qc libchapter17.a CMakeFiles/chapter17.dir/d_stack.c.o
+/usr/local/bin/llvm-ranlib libchapter17.a

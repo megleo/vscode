@@ -1,0 +1,4 @@
+data/notice_sign.raw
+data/trash_bin.raw
+data/plastic_cup.raw
+data/chairs.raw

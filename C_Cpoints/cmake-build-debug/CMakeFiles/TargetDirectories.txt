@@ -1,0 +1,6 @@
+/home/ts/vscode/C_Cpoints/cmake-build-debug/CMakeFiles/C_Cpoints.dir
+/home/ts/vscode/C_Cpoints/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ts/vscode/C_Cpoints/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/CMakeFiles/chapter17.dir
+/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/CMakeFiles/edit_cache.dir
+/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/CMakeFiles/rebuild_cache.dir

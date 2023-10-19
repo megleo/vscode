@@ -1,0 +1,4 @@
+/home/ts/software/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/usr/local/bin/clang -DCMAKE_CXX_COMPILER=/usr/local/bin/clang++ -G "CodeBlocks - Unix Makefiles" -S /home/ts/vscode/C_Cpoints -B /home/ts/vscode/C_Cpoints/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ts/vscode/C_Cpoints/cmake-build-debug

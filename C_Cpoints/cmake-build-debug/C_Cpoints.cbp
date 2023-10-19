@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_Cpoints"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Chapter17\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ts/vscode/C_Cpoints/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_Cpoints">
+				<Option output="/home/ts/vscode/C_Cpoints/cmake-build-debug/C_Cpoints" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ts/vscode/C_Cpoints/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/home/ts/vscode/C_Cpoints/Chapter17"/>
+					<Add directory="/usr/local/lib/clang/15.0.7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_Cpoints"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_Cpoints/fast">
+				<Option output="/home/ts/vscode/C_Cpoints/cmake-build-debug/C_Cpoints" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ts/vscode/C_Cpoints/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/home/ts/vscode/C_Cpoints/Chapter17"/>
+					<Add directory="/usr/local/lib/clang/15.0.7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_Cpoints/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ts/vscode/C_Cpoints/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ts/vscode/C_Cpoints/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chapter17">
+				<Option output="/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/libchapter17.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/lib/clang/15.0.7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/Makefile&quot;  VERBOSE=1 chapter17"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chapter17/fast">
+				<Option output="/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/libchapter17.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/usr/local/lib/clang/15.0.7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/Makefile&quot;  VERBOSE=1 chapter17/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/ts/vscode/C_Cpoints/cmake-build-debug/Chapter17/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ts/vscode/C_Cpoints/Chapter17/d_stack.c">
+			<Option target="chapter17"/>
+		</Unit>
+		<Unit filename="/home/ts/vscode/C_Cpoints/Chapter17/d_stack.h">
+			<Option target="chapter17"/>
+		</Unit>
+		<Unit filename="/home/ts/vscode/C_Cpoints/main.c">
+			<Option target="C_Cpoints"/>
+		</Unit>
+		<Unit filename="/home/ts/vscode/C_Cpoints/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ts/vscode/C_Cpoints/Chapter17/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Chapter17\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
